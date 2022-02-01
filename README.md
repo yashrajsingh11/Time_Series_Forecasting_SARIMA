@@ -101,3 +101,12 @@ We used both methods and forecasted Temperature and Carbon Monoxide values for t
 
 7) 20.555886056426857
 #### Average: 30.425711265211824
+### Sample Screenshots
+
+![Alt text](Images/1.png?raw=true "Result1")
+
+![Alt text](Images/2.png?raw=true "Result2")
+
+![Alt text](Images/3.png?raw=true "Result3")
+
+![Alt text](Images/4.png?raw=true "Result4")
